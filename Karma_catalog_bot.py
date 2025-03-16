@@ -148,9 +148,3 @@ def main() -> None:
 if __name__ == '__main__':
     main()
 
-
-    # Запускаем бота
-    application.run_polling()
-
-if __name__ == '__main__':
-    main()
