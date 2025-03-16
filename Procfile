@@ -1,1 +1,1 @@
-worker: python karma_catalog_bot.py
+worker: python Karma_catalog_bot.py
